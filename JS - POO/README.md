@@ -1,3 +1,3 @@
-# Simple_quiz-JS
+# Quiz
 
 A simple quiz with OPP in Javascript.
